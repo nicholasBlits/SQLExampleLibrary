@@ -1,0 +1,21 @@
+Team_ID,Team_Name,Home_City,Home_State,Ranking,Next_Rival,Wins,Losses,Games_Played,Star_Player,Manager_ID
+1,The Winged Warriors,Springfield,Illinois,5,The Martians,10,4,14,C. Gull,7
+2,The Rocky Roads,Juneau,Alaska,6,The Rabbits,9,6,15,I. Scream,4
+3,The Rabbits,Atlanta,Georgia,3,The Rocky Roads,6,11,17,B. Hop,6
+4,The Martians,Sacramento,California,9,The Winged Warriors,11,7,18,A. Lien,3
+5,The Arrows,Austin,Texas,1,The Spears,12,6,18,D. Rection,1
+6,The Spears,Olympia,Washington,2,The Arrows,10,6,16,J. Velin,5
+7,The Builders,Baton Rouge,Louisiana,4,The Rockstars,12,3,15,C. Mentman,9
+8,The Rockstars,Albany,New York,11,The Builders,14,1,15,K. Poe,2
+9,The Chefs,Phoenix,Arizona,20,The Thunder,3,15,18,K. Nife,8
+10,The Thunder,Denver,Colorado,8,The Chefs,14,6,20,H. Storm,11
+11,The Serpents,Boston,Massachusetts,12,The Racers,11,1,12,B. Weare,12
+12,The Racers,Frankfort,Kentucky,18,The Serpents,6,9,15,A. Head,10
+13,The Blossoms,Topeka,Kansas,13,The Crabs,8,11,19,A. Tree,15
+14,The Crabs,Jackson,Mississippi,7,The Blossoms,10,8,18,O. Shin,13
+15,The Butterflies,Saint Paul,Minnesota,10,The Clowns,14,6,20,K. Turpillar,14
+16,The Clowns,Harrisburg,Pennsylvania,19,The Butterflies,6,11,17,S. Arcus,18
+17,The Musicians,Salem,Orgeon,14,The Soldiers,8,6,14,D. Rummer,16
+18,The Soldiers,Salt Lake City,Utah,16,The Musicians,9,8,17,R. Mee,19
+19,The Programmers,Madison,Wisconsin,15,The Scientists,9,7,16,N. Terr,17
+20,The Scientists,Richmond,Virginia,17,The Programmers,11,9,20,X. Perament,20
